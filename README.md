@@ -2,7 +2,7 @@
 
 ![Visualização do Site](https://i.imgur.com/W2lczkf.png)
 
-Durante meus estudos, desenvolvi um projeto que consiste na criação de um site em formato de enciclopédia dedicado à personagem *Neon*, do jogo *VALORANT*, da Riot Games. O conteúdo está em português brasileiro, minha língua nativa.
+Durante meus estudos, desenvolvi um projeto que consiste na criação de um site em formato de enciclopédia dedicado à personagem *Neon*, do jogo *VALORANT*, da Riot Games.
 
 Neste trabalho, apliquei as habilidades adquiridas durante minha formação em **HTML Web Developer** pela plataforma DIO.me, com foco em escrever um código limpo, semântico e acessível. Para isso, utilizei atributos das especificações **WAI-ARIA** (Web Accessibility Initiative – Accessible Rich Internet Applications).
 
